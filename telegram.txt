@@ -1,9 +1,9 @@
 # telegram.org^
 
-telegram.org^
-core.telegram.org^
-||web.telegram.org^
-|| instantview.telegram.org^
+telegram.org
+core.telegram.org
+||web.telegram.org
+|| instantview.telegram.org
 || desktop.telegram.org^
 || api.telegram.org^
 || tsf.telegram.org^
