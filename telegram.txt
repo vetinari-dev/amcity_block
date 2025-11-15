@@ -1,383 +1,383 @@
-# telegram.org^
+# telegram.org
 
 ||telegram.org
 ||core.telegram.org
 ||web.telegram.org
-|| instantview.telegram.org
-|| desktop.telegram.org^
-|| api.telegram.org^
-|| tsf.telegram.org^
-|| osx.telegram.org^
-|| oauth.telegram.org^
-|| maila11.telegram.org^
-|| maila21.telegram.org^
-|| sha.telegram.org^
-|| nivwebcontent.telegram.org^
-|| ny.telegram.org^
-|| dns.jomax.net.telegram.org^
-|| ivwebcontent.telegram.org^
-|| nc.telegram.org^
-|| nwww1.telegram.org^
-|| n2fdesktop.telegram.org^
-|| nns3.telegram.org^
-|| ne.telegram.org^
-|| flora-1.web.telegram.org^
-|| nwhm.telegram.org^
-|| 1-www.telegram.org^
-|| ndeskpot.telegram.org^
-|| blog.telegram.org^
-|| nshare.telegram.org^
-|| nmacupdates.telegram.org^
-|| nwww.desktop.telegram.org^
-|| noffice.telegram.org^
-|| nwww.wab.telegram.org^
-|| ndns1.telegram.org^
-|| n2fweb.telegram.org^
-|| nipv6.telegram.org^
-|| kws3-1.web.telegram.org^
-|| get.telegram.org^
-|| voipa047.telegram.org^
-|| nsecure.telegram.org^
-|| zws2.web.telegram.org^
-|| ipv8.telegram.org^
-|| ww.telegram.org^
-|| nwww2.telegram.org^
-|| nmail2.telegram.org^
-|| y.telegram.org^
-|| nmacos.telegram.org^
-|| nmaila13.telegram.org^
-|| s.telegram.org^
-|| nmongodb.telegram.org^
-|| nmx01.telegram.org^
-|| wep.telegram.org^
-|| nmail.telegram.org^
-|| ndesctop.telegram.org^
-|| zws1.web.telegram.org^
-|| npi.telegram.org^
-|| stickers.telegram.org^
-|| nh.telegram.org^
-|| n0.telegram.org^
-|| nmap.telegram.org^
-|| b.telegram.org^
-|| ninfo.telegram.org^
-|| nshared.telegram.org^
-|| nwep.telegram.org^
-|| nvesta-1.telegram.org^
-|| ninstantview.telegram.org^
-|| nfaq.telegram.org^
-|| nhome.telegram.org^
-|| info.telegram.org^
-|| nipv8.telegram.org^
-|| mobile.telegram.org^
-|| n1-www.telegram.org^
-|| nb.telegram.org^
-|| nmongo.telegram.org^
-|| xn--h1avi.telegram.org^
-|| dmca.telegram.org^
-|| nosx.telegram.org^
-|| shard.telegram.org^
-|| vesta.telegram.org^
-|| integrations.telegram.org^
-|| nmysql.telegram.org^
-|| nm.telegram.org^
-|| ninbound.telegram.org^
-|| nams-ix-gw.telegram.org^
-|| nintegrations.telegram.org^
-|| nmy.telegram.org^
-|| deacticite.telegram.org^
-|| dektop.telegram.org^
-|| 0.telegram.org^
-|| nmaila11.telegram.org^
-|| nv.telegram.org^
-|| w2eb.telegram.org^
-|| desctop.telegram.org^
-|| pluto.web.telegram.org^
-|| zws2-1.web.telegram.org^
-|| nmedia.telegram.org^
-|| macupdates.telegram.org^
-|| mx2.telegram.org^
-|| nowa.telegram.org^
-|| 2fapi.telegram.org^
-|| ndeactive.telegram.org^
-|| nwebmail.telegram.org^
-|| ndnm.telegram.org^
-|| 65-192-142-95.telegram.org^
-|| nsh.telegram.org^
-|| nstaging.telegram.org^
-|| nmobile.telegram.org^
-|| win.telegram.org^
-|| nadmin.telegram.org^
-|| kws4-1.web.telegram.org^
-|| nmail1.telegram.org^
-|| nfa-sw1-dc7.telegram.org^
-|| kws2-1.web.telegram.org^
-|| ip-149-154-161-204.ptr.telegram.org^
-|| kws3.web.telegram.org^
-|| napi.telegram.org^api.telegram.org^
-|| nbeta.telegram.org^
-|| flora-1.telegram.org^
-|| voipa068.telegram.org^
-|| proxy.telegram.org^
-|| nmaila22.telegram.org^
-|| nshard.telegram.org^
-|| ndownload.telegram.org^
-|| ndektop.telegram.org^
-|| download.telegram.org^
-|| zws4-1.web.telegram.org^
-|| nmx1.telegram.org^
-|| mailm21.telegram.org^
-|| sh.telegram.org^
-|| support.telegram.org^
-|| nwiki.telegram.org^
-|| ip-149-154-161-214.ptr.telegram.org^
-|| nmx2.telegram.org^
-|| ngdfgd.telegram.org^
-|| httpsdesktop.telegram.org^
-|| nsslvpn.telegram.org^
-|| ninternet.telegram.org^
-|| abuse.telegram.org^
-|| voipa062.telegram.org^
-|| nget.telegram.org^
-|| voipa066.telegram.org^
-|| vesta-1.web.telegram.org^
-|| bebuh.telegram.org^
-|| noutlook.telegram.org^
-|| mx8.telegram.org^
-|| nsha.telegram.org^
-|| nwe.telegram.org^
-|| desktup.telegram.org^
-|| nsite.telegram.org^
-|| m.telegram.org^
-|| nssl.telegram.org^
-|| ncdn.telegram.org^
-|| net.telegram.org^
-|| nwebdisk.telegram.org^
-|| beta.telegram.org^
-|| venus.telegram.org^
-|| ru.telegram.org^
-|| nns4.telegram.org^
-|| nstatic.telegram.org^
-|| apt.telegram.org^
-|| kws1.web.telegram.org^
-|| getdesktop.telegram.org^
-|| npluto.telegram.org^
-|| im.telegram.org^
-|| ncloud.telegram.org^
-|| ncore.telegram.org^
-|| negerbasse.telegram.org^
-|| venus.web.telegram.org^
-|| nvesta.telegram.org^
-|| wildcard-in-use.telegram.org^
-|| nandroid.telegram.org^
-|| map.telegram.org^
-|| nautoconfig.telegram.org^
-|| nmaila21.telegram.org^
-|| mail.telegram.org^
-|| ndemo.telegram.org^
-|| ngo.telegram.org^
-|| nvenus.telegram.org^
-|| nveb.telegram.org^
-|| deactive.telegram.org^
-|| ndyn.telegram.org^
-|| www.telegram.org^
-|| zws3.web.telegram.org^
-|| nwap.telegram.org^
-|| nww.telegram.org^
-|| we.telegram.org^
-|| nmtproto.telegram.org^
-|| www.my.telegram.org^
-|| neweb.telegram.org^
-|| ndestop.telegram.org^
-|| nmdm.telegram.org^
-|| nmessenger.telegram.org^
-|| nen.telegram.org^
-|| apitt.telegram.org^
-|| inbound.telegram.org^
-|| internet.telegram.org^
-|| android.telegram.org^
-|| messenger.telegram.org^
-|| jomax.net.telegram.org^
-|| mx1.telegram.org^
-|| ton.telegram.org^
-|| neb.telegram.org^
-|| nxn--h1avi.telegram.org^
-|| nremote.telegram.org^
-|| nelastic.telegram.org^
-|| shar.telegram.org^
-|| instaview.telegram.org^
-|| nliveupdate.telegram.org^
-|| mailm11.telegram.org^
-|| share.telegram.org^
-|| nblog.telegram.org^
-|| kws5-1.web.telegram.org^
-|| aurora.web.telegram.org^
-|| www.wab.telegram.org^
-|| mx10.telegram.org^
-|| eb.telegram.org^
-|| destop.telegram.org^
-|| ndns2.telegram.org^
-|| nwin.telegram.org^
-|| n252fapi.telegram.org^
-|| nexchange.telegram.org^
-|| ndns.jomax.net.telegram.org^
-|| vesta.web.telegram.org^
-|| abouse.telegram.org^
-|| nmx11.telegram.org^
-|| nshar.telegram.org^
-|| shared.telegram.org^
-|| nton.telegram.org^
-|| faq.telegram.org^
-|| nme.telegram.org^
-|| zws3-1.web.telegram.org^
-|| nlogin.telegram.org^
-|| nmails11.telegram.org^
-|| me.telegram.org^
-|| nvpn.telegram.org^
-|| durov.telegram.org^
-|| ncrm.telegram.org^
-|| nml.telegram.org^
-|| flora.telegram.org^
-|| nns1.telegram.org^
-|| gdfgd.telegram.org^
-|| nimg.telegram.org^
-|| kws1-1.web.telegram.org^
-|| eweb.telegram.org^
-|| ip-149-154-161-249.ptr.telegram.org^
-|| mails11.telegram.org^
-|| wap.telegram.org^
-|| ncpanel.telegram.org^
-|| venus-1.web.telegram.org^
-|| ninstaview.telegram.org^
-|| nnet.telegram.org^
-|| nwww.my.telegram.org^
-|| nmailm11.telegram.org^
-|| na.telegram.org^
-|| gbot.integrations.telegram.org^
-|| nportal.telegram.org^
-|| www.api.telegram.org^
-|| nemail.telegram.org^
-|| nde.telegram.org^
-|| nstickers.telegram.org^
-|| flora.web.telegram.org^
-|| bbs.telegram.org^
-|| napi.telegram.org^
-|| autodiscover.telegram.org^
-|| zws1-1.web.telegram.org^
-|| npop3.telegram.org^
-|| nupload.telegram.org^
-|| nmx6.telegram.org^
-|| aurora-1.web.telegram.org^
-|| noauth.telegram.org^
-|| 149.154.167.99www.telegram.org^
-|| ngitlab.telegram.org^
-|| ni.telegram.org^
-|| nwww.me^.telegram.org^
-|| veb.telegram.org^
-|| u0438.telegram.org^
-|| kws4.web.telegram.org^
-|| e.telegram.org^
-|| nhttpsdesktop.telegram.org^
-|| nthemes.telegram.org^
-|| ndesktop.telegram.org^
-|| nserver1.telegram.org^
-|| nmaila12.telegram.org^
-|| kws2.web.telegram.org^
-|| pi.telegram.org^
-|| zws5-1.web.telegram.org^
-|| nim.telegram.org^
-|| ipv6.telegram.org^
-|| nw2eb.telegram.org^
-|| nold.telegram.org^
-|| zws4.web.telegram.org^
-|| ns.telegram.org^
-|| nstore.telegram.org^
-|| tapi.telegram.org^
-|| pluto-1.web.telegram.org^
-|| voipa025.telegram.org^
-|| www.proxy.telegram.org^
-|| tisvpn.telegram.org^
-|| zws5.web.telegram.org^
-|| ncname.telegram.org^
-|| nstage.telegram.org^
-|| nww1.telegram.org^
-|| ip.telegram.org^
-|| v.telegram.org^
-|| csr11.net.telegram.org^
-|| nproxy.telegram.org^
-|| ntranslations.telegram.org^
-|| jezebel.telegram.org^
-|| nbebuh.telegram.org^
-|| kws5.web.telegram.org^
-|| ndesktup.telegram.org^
-|| nforum.telegram.org^
-|| voipa05e.telegram.org^
-|| deskpot.telegram.org^
-|| nmaila23.telegram.org^
-|| ntsf.telegram.org^
-|| www.desktop.telegram.org^
-|| nmailm21.telegram.org^
-|| nru.telegram.org^
-|| ip-149-154-161-237.ptr.telegram.org^
-|| nweb.telegram.org^
-|| unauthorized.telegram.org^
-|| nns2.telegram.org^
-|| t.me^
-|| net.t.me^
-|| t.t.me^
-|| unauthorized.t.me^
-|| canyoutes.t.me^
-|| st.ty.t.me^
-|| adspiri.t.me^
-|| cooltes.t.me^
-|| curiousca.t.me^
-|| gotomee.t.me^
-|| flowho.t.me^
-|| 5.t.me^
-|| dc2t.rtmp.t.me^
-|| ipv6.t.me^
-|| jomax.net.t.me^
-|| w.t.me^
-|| web.t.me^
-|| h.t.me^
-|| yw.t.me^
-|| http.t.me^
-|| i.t.me^
-|| links.join.t.me^
-|| newnex.t.me^
-|| admedi.t.me^
-|| nwww.t.me^
-|| 8.t.me^
-|| tincen.t.me^
-|| instan.t.me^
-|| s.t.me^
-|| iden.t.me^
-|| bp.t.me^
-|| clipar.t.me^
-|| dns.jomax.net.t.me^
-|| p.t.me^
-|| ty.t.me^
-|| tigertex.t.me^
-|| adtarge.t.me^
-|| u.t.me^
-|| e.t.me^
-|| abou.t.me^
-|| 2017schoolyardfarmtotable.bp.t.me^
-|| l.t.me^
-|| join.t.me^
-|| wuhanvirus.kr.t.me^
-|| dc5-1.rtmp.t.me^
-|| disconnec.t.me^
-|| extrac.t.me^
-|| r.t.me^
-|| gbo.t.me^
-|| wp-rocke.t.me^
-|| mq.t.me^
-|| kondui.t.me^
-|| anycas.t.me^
-|| a.t.me^
-|| c.t.me^
-|| this.t.me^
-|| rtr.t.me^
-|| www.t.me^
-|| omle.t.me^
-|| cdn5.t.me^
+||instantview.telegram.org
+||desktop.telegram.org
+||api.telegram.org
+||tsf.telegram.org
+||osx.telegram.org
+||oauth.telegram.org
+||maila11.telegram.org
+||maila21.telegram.org
+||sha.telegram.org
+||nivwebcontent.telegram.org
+||ny.telegram.org
+||dns.jomax.net.telegram.org
+||ivwebcontent.telegram.org
+||nc.telegram.org
+||nwww1.telegram.org
+||n2fdesktop.telegram.org
+||nns3.telegram.org
+||ne.telegram.org
+||flora-1.web.telegram.org
+||nwhm.telegram.org
+||1-www.telegram.org
+||ndeskpot.telegram.org
+||blog.telegram.org
+||nshare.telegram.org
+||nmacupdates.telegram.org
+||nwww.desktop.telegram.org
+||noffice.telegram.org
+||nwww.wab.telegram.org
+||ndns1.telegram.org
+||n2fweb.telegram.org
+||nipv6.telegram.org
+||kws3-1.web.telegram.org
+||get.telegram.org
+||voipa047.telegram.org
+||nsecure.telegram.org
+||zws2.web.telegram.org
+||ipv8.telegram.org
+||ww.telegram.org
+||nwww2.telegram.org
+||nmail2.telegram.org
+||y.telegram.org
+||nmacos.telegram.org
+||nmaila13.telegram.org
+||s.telegram.org
+||nmongodb.telegram.org
+||nmx01.telegram.org
+||wep.telegram.org
+||nmail.telegram.org
+||ndesctop.telegram.org
+||zws1.web.telegram.org
+||npi.telegram.org
+||stickers.telegram.org
+||nh.telegram.org
+||n0.telegram.org
+||nmap.telegram.org
+||b.telegram.org
+||ninfo.telegram.org
+||nshared.telegram.org
+||nwep.telegram.org
+||nvesta-1.telegram.org
+||ninstantview.telegram.org
+||nfaq.telegram.org
+||nhome.telegram.org
+||info.telegram.org
+||nipv8.telegram.org
+||mobile.telegram.org
+||n1-www.telegram.org
+||nb.telegram.org
+||nmongo.telegram.org
+||xn--h1avi.telegram.org
+||dmca.telegram.org
+||nosx.telegram.org
+||shard.telegram.org
+||vesta.telegram.org
+||integrations.telegram.org
+||nmysql.telegram.org
+||nm.telegram.org
+||ninbound.telegram.org
+||nams-ix-gw.telegram.org
+||nintegrations.telegram.org
+||nmy.telegram.org
+||deacticite.telegram.org
+||dektop.telegram.org
+||0.telegram.org
+||nmaila11.telegram.org
+||nv.telegram.org
+||w2eb.telegram.org
+||desctop.telegram.org
+||pluto.web.telegram.org
+||zws2-1.web.telegram.org
+||nmedia.telegram.org
+||macupdates.telegram.org
+||mx2.telegram.org
+||nowa.telegram.org
+||2fapi.telegram.org
+||ndeactive.telegram.org
+||nwebmail.telegram.org
+||ndnm.telegram.org
+||65-192-142-95.telegram.org
+||nsh.telegram.org
+||nstaging.telegram.org
+||nmobile.telegram.org
+||win.telegram.org
+||nadmin.telegram.org
+||kws4-1.web.telegram.org
+||nmail1.telegram.org
+||nfa-sw1-dc7.telegram.org
+||kws2-1.web.telegram.org
+||ip-149-154-161-204.ptr.telegram.org
+||kws3.web.telegram.org
+||napi.telegram.orgapi.telegram.org
+||nbeta.telegram.org
+||flora-1.telegram.org
+||voipa068.telegram.org
+||proxy.telegram.org
+||nmaila22.telegram.org
+||nshard.telegram.org
+||ndownload.telegram.org
+||ndektop.telegram.org
+||download.telegram.org
+||zws4-1.web.telegram.org
+||nmx1.telegram.org
+||mailm21.telegram.org
+||sh.telegram.org
+||support.telegram.org
+||nwiki.telegram.org
+||ip-149-154-161-214.ptr.telegram.org
+||nmx2.telegram.org
+||ngdfgd.telegram.org
+||httpsdesktop.telegram.org
+||nsslvpn.telegram.org
+||ninternet.telegram.org
+||abuse.telegram.org
+||voipa062.telegram.org
+||nget.telegram.org
+||voipa066.telegram.org
+||vesta-1.web.telegram.org
+||bebuh.telegram.org
+||noutlook.telegram.org
+||mx8.telegram.org
+||nsha.telegram.org
+||nwe.telegram.org
+||desktup.telegram.org
+||nsite.telegram.org
+||m.telegram.org
+||nssl.telegram.org
+||ncdn.telegram.org
+||net.telegram.org
+||nwebdisk.telegram.org
+||beta.telegram.org
+||venus.telegram.org
+||ru.telegram.org
+||nns4.telegram.org
+||nstatic.telegram.org
+||apt.telegram.org
+||kws1.web.telegram.org
+||getdesktop.telegram.org
+||npluto.telegram.org
+||im.telegram.org
+||ncloud.telegram.org
+||ncore.telegram.org
+||negerbasse.telegram.org
+||venus.web.telegram.org
+||nvesta.telegram.org
+||wildcard-in-use.telegram.org
+||nandroid.telegram.org
+||map.telegram.org
+||nautoconfig.telegram.org
+||nmaila21.telegram.org
+||mail.telegram.org
+||ndemo.telegram.org
+||ngo.telegram.org
+||nvenus.telegram.org
+||nveb.telegram.org
+||deactive.telegram.org
+||ndyn.telegram.org
+||www.telegram.org
+||zws3.web.telegram.org
+||nwap.telegram.org
+||nww.telegram.org
+||we.telegram.org
+||nmtproto.telegram.org
+||www.my.telegram.org
+||neweb.telegram.org
+||ndestop.telegram.org
+||nmdm.telegram.org
+||nmessenger.telegram.org
+||nen.telegram.org
+||apitt.telegram.org
+||inbound.telegram.org
+||internet.telegram.org
+||android.telegram.org
+||messenger.telegram.org
+||jomax.net.telegram.org
+||mx1.telegram.org
+||ton.telegram.org
+||neb.telegram.org
+||nxn--h1avi.telegram.org
+||nremote.telegram.org
+||nelastic.telegram.org
+||shar.telegram.org
+||instaview.telegram.org
+||nliveupdate.telegram.org
+||mailm11.telegram.org
+||share.telegram.org
+||nblog.telegram.org
+||kws5-1.web.telegram.org
+||aurora.web.telegram.org
+||www.wab.telegram.org
+||mx10.telegram.org
+||eb.telegram.org
+||destop.telegram.org
+||ndns2.telegram.org
+||nwin.telegram.org
+||n252fapi.telegram.org
+||nexchange.telegram.org
+||ndns.jomax.net.telegram.org
+||vesta.web.telegram.org
+||abouse.telegram.org
+||nmx11.telegram.org
+||nshar.telegram.org
+||shared.telegram.org
+||nton.telegram.org
+||faq.telegram.org
+||nme.telegram.org
+||zws3-1.web.telegram.org
+||nlogin.telegram.org
+||nmails11.telegram.org
+||me.telegram.org
+||nvpn.telegram.org
+||durov.telegram.org
+||ncrm.telegram.org
+||nml.telegram.org
+||flora.telegram.org
+||nns1.telegram.org
+||gdfgd.telegram.org
+||nimg.telegram.org
+||kws1-1.web.telegram.org
+||eweb.telegram.org
+||ip-149-154-161-249.ptr.telegram.org
+||mails11.telegram.org
+||wap.telegram.org
+||ncpanel.telegram.org
+||venus-1.web.telegram.org
+||ninstaview.telegram.org
+||nnet.telegram.org
+||nwww.my.telegram.org
+||nmailm11.telegram.org
+||na.telegram.org
+||gbot.integrations.telegram.org
+||nportal.telegram.org
+||www.api.telegram.org
+||nemail.telegram.org
+||nde.telegram.org
+||nstickers.telegram.org
+||flora.web.telegram.org
+||bbs.telegram.org
+||napi.telegram.org
+||autodiscover.telegram.org
+||zws1-1.web.telegram.org
+||npop3.telegram.org
+||nupload.telegram.org
+||nmx6.telegram.org
+||aurora-1.web.telegram.org
+||noauth.telegram.org
+||149.154.167.99www.telegram.org
+||ngitlab.telegram.org
+||ni.telegram.org
+||nwww.me.telegram.org
+||veb.telegram.org
+||u0438.telegram.org
+||kws4.web.telegram.org
+||e.telegram.org
+||nhttpsdesktop.telegram.org
+||nthemes.telegram.org
+||ndesktop.telegram.org
+||nserver1.telegram.org
+||nmaila12.telegram.org
+||kws2.web.telegram.org
+||pi.telegram.org
+||zws5-1.web.telegram.org
+||nim.telegram.org
+||ipv6.telegram.org
+||nw2eb.telegram.org
+||nold.telegram.org
+||zws4.web.telegram.org
+||ns.telegram.org
+||nstore.telegram.org
+||tapi.telegram.org
+||pluto-1.web.telegram.org
+||voipa025.telegram.org
+||www.proxy.telegram.org
+||tisvpn.telegram.org
+||zws5.web.telegram.org
+||ncname.telegram.org
+||nstage.telegram.org
+||nww1.telegram.org
+||ip.telegram.org
+||v.telegram.org
+||csr11.net.telegram.org
+||nproxy.telegram.org
+||ntranslations.telegram.org
+||jezebel.telegram.org
+||nbebuh.telegram.org
+||kws5.web.telegram.org
+||ndesktup.telegram.org
+||nforum.telegram.org
+||voipa05e.telegram.org
+||deskpot.telegram.org
+||nmaila23.telegram.org
+||ntsf.telegram.org
+||www.desktop.telegram.org
+||nmailm21.telegram.org
+||nru.telegram.org
+||ip-149-154-161-237.ptr.telegram.org
+||nweb.telegram.org
+||unauthorized.telegram.org
+||nns2.telegram.org
+||t.me
+||net.t.me
+||t.t.me
+||unauthorized.t.me
+||canyoutes.t.me
+||st.ty.t.me
+||adspiri.t.me
+||cooltes.t.me
+||curiousca.t.me
+||gotomee.t.me
+||flowho.t.me
+||5.t.me
+||dc2t.rtmp.t.me
+||ipv6.t.me
+||jomax.net.t.me
+||w.t.me
+||web.t.me
+||h.t.me
+||yw.t.me
+||http.t.me
+||i.t.me
+||links.join.t.me
+||newnex.t.me
+||admedi.t.me
+||nwww.t.me
+||8.t.me
+||tincen.t.me
+||instan.t.me
+||s.t.me
+||iden.t.me
+||bp.t.me
+||clipar.t.me
+||dns.jomax.net.t.me
+||p.t.me
+||ty.t.me
+||tigertex.t.me
+||adtarge.t.me
+||u.t.me
+||e.t.me
+||abou.t.me
+||2017schoolyardfarmtotable.bp.t.me
+||l.t.me
+||join.t.me
+||wuhanvirus.kr.t.me
+||dc5-1.rtmp.t.me
+||disconnec.t.me
+||extrac.t.me
+||r.t.me
+||gbo.t.me
+||wp-rocke.t.me
+||mq.t.me
+||kondui.t.me
+||anycas.t.me
+||a.t.me
+||c.t.me
+||this.t.me
+||rtr.t.me
+||www.t.me
+||omle.t.me
+||cdn5.t.me
