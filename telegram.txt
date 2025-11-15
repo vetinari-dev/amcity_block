@@ -1,7 +1,7 @@
 # telegram.org^
 
-telegram.org
-core.telegram.org
+||telegram.org
+||core.telegram.org
 ||web.telegram.org
 || instantview.telegram.org
 || desktop.telegram.org^
